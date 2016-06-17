@@ -38,7 +38,6 @@ Thumbs.db
 
 .buildpath
 .idea
-.project
 .settings
 composer.lock
 .classpath
