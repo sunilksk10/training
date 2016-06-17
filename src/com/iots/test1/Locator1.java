@@ -1,4 +1,4 @@
-package Basics;
+package com.iots.test1;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
