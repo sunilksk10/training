@@ -38,6 +38,8 @@ Thumbs.db
 
 .buildpath
 .idea
+.gitignore
 .settings
 composer.lock
 .classpath
+/target/
