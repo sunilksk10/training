@@ -17,15 +17,6 @@ public class Divisible {
 		    System.out.println();
 		  }
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		/*
 		int i;
 
